@@ -4,6 +4,30 @@
 
 ## Introducción ##
 
+Este es el primero de varios desafíos personales, donde ponerte a prueba, pero en este caso será el estilo.
+
+Nos centraremos en el elemento botón. Tendrás que hacer que aquel estilo que hagas se pueda reutilizar.
+
 ## Requisitos ##
 
+- Precurso Web
+
 ## Iteraciones ##
+
+Te mostramos los estados que tendrás que replicar. Colores y formas lo dejamos a tu elección:
+
+Normal:
+
+![normal]
+
+Hover:
+
+![hover]
+
+Active:
+
+![active]
+
+[normal]: normal.png "Normal"
+[hover]: hover.png "Hover"
+[active]: active.png "Active"
